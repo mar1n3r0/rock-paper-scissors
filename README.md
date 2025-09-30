@@ -44,8 +44,8 @@
 8. Run the daemon:
 + `.cmd/ipfs/ipfs daemon --enable-pubsub-experiment`
 
-9.  Clone https://github.com/stateless-minds/rock-paper-scissors
-`git clone https://github.com/stateless-minds/rock-paper-scissors.git`
+9.  Clone https://github.com/mar1n3r0/rock-paper-scissors
+`git clone https://github.com/mar1n3r0/rock-paper-scissors.git`
 10.  Do `make run`.
 11. Head to localhost:3000 and you should see the authentication screen
 12. In auth.go rename `a.myPeerID = myPeer.ID` for each new user you want to test with. For example `a.myPeerID = myPeer.ID + "player1"`
