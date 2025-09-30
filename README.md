@@ -8,7 +8,7 @@
 - **On draw - all bets are refunded**
 - **All matches are non-realtime**
 - **This means that the host and the opponent do not have time constraints to be in the game at the same time**
-- **For reference to such a game check out <a href="https://github.com/stateless-minds/cyber-derive">Cyber-Derive</a>A gamified delivery app which is based on concurrent play with time constraints**
+- **For reference to such a game check out <a href="https://github.com/stateless-minds/cyber-derive">Cyber-Derive</a> - A gamified delivery app which is based on concurrent play with time constraints**
 - **Instead the outcome is resolved asynchronously**
 - **The initiator of the game also called the host gets a notification next time he goes to his challenges if the match has been resolved meanwhile**
 - **The challenged player also called the opponent gets an immediate notification about the outcome because he is always closing the match with his/her choice**
