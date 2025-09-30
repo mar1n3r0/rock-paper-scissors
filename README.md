@@ -17,7 +17,7 @@
 
 ## Tech Stack
 
-- **<a href="https://github.com/stateless-minds/kubo">IPFS Kubo fork with DB integration in the local daemon for access to db local files from browser wasm</>**
+- **<a href="https://github.com/stateless-minds/kubo">IPFS Kubo fork with DB integration in the local daemon for access to db local files from browser wasm</a>**
 - **<a href="https://go-app.dev/">go-app - A Golang frontend/fullstack/edge framework similar to React which compiles to browser-native wasm code</a>**
 
 ## How to run locally
